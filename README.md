@@ -22,5 +22,5 @@ Each column contains:
 
 The python code Plots.py generates various plots combining the data from the ten files.
 To run it from the Terminal the following command line is used
-   python Plots.py
+  "python Plots.py"
 and by typing a number from 1 to 18 and "enter" we get the chosen plot.
