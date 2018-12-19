@@ -20,7 +20,7 @@ Each column contains:
 15. Ratio of the maximum mass and the maximum radius of the non rotating star
 
 
-The python code Plots.py generates various plots combining the data from the ten files.
+The python (version 2.7) code Plots.py generates various plots combining the data from the ten files.
 To run it from the Terminal the following command line is used
   "python Plots.py"
 and by typing a number from 1 to 18 and "enter" we get the chosen plot.
